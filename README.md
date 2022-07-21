@@ -1,5 +1,4 @@
-# Recommender-System-
-Recommender System Using Haskell
+# Recommender System Using Haskell
 
 Almost all the applications we use today rely extensively on recommender systems to build user profiles
 and accordingly recommend items to buy/watch/read that matches their users’ interests.
